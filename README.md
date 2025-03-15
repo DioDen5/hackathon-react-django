@@ -60,7 +60,7 @@ This setup allows the React app to fetch and display data from the Django backen
 ### React Frontend
 
 1. **Fetched data from Django API**:
-    - Set up an API request in `App.js` to fetch data from the Django backend (`http://127.0.0.1:8000/api/hello/`).
+    - Set up an API request in `App.jsx` to fetch data from the Django backend (`http://127.0.0.1:8000/api/hello/`).
 
    ```javascript
    useEffect(() => {
